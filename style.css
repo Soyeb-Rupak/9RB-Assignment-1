@@ -210,3 +210,72 @@ margin-top: 30px;
 .react-card a{
     margin-bottom: 10px;
 }
+.support{
+    display: flex;
+    margin: 40px auto;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+    border-radius: 16px;
+    background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.9)
+    
+  
+};
+
+
+.input {
+  
+    padding-bottom: 30px; 
+}
+.input h2  {
+    margin-bottom: 20px; 
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 28px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.input p {
+    margin-bottom: 20px; 
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 12px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+.input-field{
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+padding: 12px 60px 12px 60px;
+}
+.submit{
+    border-radius: 8px;
+background: rgb(255, 255, 255);
+padding: 12px 20px 12px 20px;
+border: none;
+}
+   
+.footer-container{
+    width: 900px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px auto;
+    border-radius: 16px;
+background: rgba(13, 19, 33, 0.03);
+
+}
